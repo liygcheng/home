@@ -10275,8 +10275,8 @@ a.fancybox {
     margin: 5px 15px 30px 0; }
     .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
       display: block;
-      width: 140px;
-      height: 140px;
+      width: 200px;
+      height: 160px;
       object-fit: cover;
       overflow: hidden; }
   .postShorten.postShorten--thumbnailimg-left .postShorten-wrap {
